@@ -1,7 +1,7 @@
 
 ---
-name: 'Block all your ads on all devices at home. Pi Hole Tutorial'
-description: 'Visualize sound by making particles move in a galaxy'
+name: 'Ad blocker'
+description: 'Block your ads '
 author: '@MatthewStanciu'
 ---
 
@@ -277,5 +277,5 @@ Here are some examples of projects that stem from this project but take it even 
 - **Raining particles 2**: [Demo](https://icy-married-crabapple.glitch.me) [Code](https://glitch.com/edit/#!/icy-married-crabapple)
 - **Using mp3 files as input**: [Demo](https://sound-viz-song-2--techbug2012.repl.co) [Code](https://repl.it/@TechBug2012/sound-viz-song-2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1OTE4NDAsMjA2MjUwNDg0Nl19
+eyJoaXN0b3J5IjpbLTE2NDQxMzUwODcsMjA2MjUwNDg0Nl19
 -->
