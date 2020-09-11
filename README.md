@@ -1,8 +1,8 @@
 
 ---
 name: 'Ad blocker'
-description: 'Block your ads '
-author: '@MatthewStanciu'
+description: 'Block all the ads from all your devices using Pi Hole'
+author: '@adithyaanilkumar'
 ---
 
 Sound visualization is one of the coolest things that modern-day web development tools have made accessible. There’s something surreal and indescribably satisfying about *seeing* the sounds around you on your screen and somehow understanding what you’re seeing.
@@ -277,5 +277,5 @@ Here are some examples of projects that stem from this project but take it even 
 - **Raining particles 2**: [Demo](https://icy-married-crabapple.glitch.me) [Code](https://glitch.com/edit/#!/icy-married-crabapple)
 - **Using mp3 files as input**: [Demo](https://sound-viz-song-2--techbug2012.repl.co) [Code](https://repl.it/@TechBug2012/sound-viz-song-2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQxMzUwODcsMjA2MjUwNDg0Nl19
+eyJoaXN0b3J5IjpbLTE0MjEwNTY4NjUsMjA2MjUwNDg0Nl19
 -->
