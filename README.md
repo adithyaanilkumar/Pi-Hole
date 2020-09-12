@@ -13,16 +13,18 @@ In this workshop, you’re going to create a network wide ad blocker that can bl
 
 
 ## What is  Pi Hole?
-Pi Hole is a network-wide ad blocker. It can cut out almost all ads to all devices in your home, without having to install an ad blocker on every single device.
+Pi Hole is a network-wide ad blocker. It disables almost all ads from all devices connected to  your home network, without having to install an ad blocker on every single device. 
+Visit the [Official Website](https://pi-hole.net/) to know in detail.
 
-[Official Website](https://pi-hole.net/)
+##Ho
 
 ## Requirements
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0MTM0ODI2LDE3MTM3MDU0NywxOTE4MT
-I1NTQzLDE3MzY2NjI0NjcsLTI3MzE1MTgwMywtMTQwNjk1ODM0
-MSwtMTQyMTA1Njg2NSwyMDYyNTA0ODQ2XX0=
+eyJoaXN0b3J5IjpbMjAzMDQ4NTMxNiw0OTQxMzQ4MjYsMTcxMz
+cwNTQ3LDE5MTgxMjU1NDMsMTczNjY2MjQ2NywtMjczMTUxODAz
+LC0xNDA2OTU4MzQxLC0xNDIxMDU2ODY1LDIwNjI1MDQ4NDZdfQ
+==
 -->
