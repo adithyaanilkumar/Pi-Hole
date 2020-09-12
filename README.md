@@ -5,7 +5,7 @@ description: 'Pi Hole -  A black hole for all your internet advertisements '
 author: '@adithyaanilkumar'
 ---
 
-Ar
+Are you tired of those pesky ads popping up when watching your favourite videos online or while playing your favourite games?
 
 ![](img/final-demo.GIF)
 
@@ -277,6 +277,6 @@ Here are some examples of projects that stem from this project but take it even 
 - **Raining particles 2**: [Demo](https://icy-married-crabapple.glitch.me) [Code](https://glitch.com/edit/#!/icy-married-crabapple)
 - **Using mp3 files as input**: [Demo](https://sound-viz-song-2--techbug2012.repl.co) [Code](https://repl.it/@TechBug2012/sound-viz-song-2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDY5NTgzNDEsLTE0MjEwNTY4NjUsMj
-A2MjUwNDg0Nl19
+eyJoaXN0b3J5IjpbLTE5MTc3MTg5MDcsLTE0MDY5NTgzNDEsLT
+E0MjEwNTY4NjUsMjA2MjUwNDg0Nl19
 -->
