@@ -6,6 +6,7 @@ author: '@adithyaanilkumar'
 ---
 
 Are you tired of those pesky ads popping up when watching your favourite videos online or while playing your favourite games?
+Want a better internet experience without these ads? Don't worry, Pi hole is here to save the day!
 
 
 
@@ -277,6 +278,6 @@ Here are some examples of projects that stem from this project but take it even 
 - **Raining particles 2**: [Demo](https://icy-married-crabapple.glitch.me) [Code](https://glitch.com/edit/#!/icy-married-crabapple)
 - **Using mp3 files as input**: [Demo](https://sound-viz-song-2--techbug2012.repl.co) [Code](https://repl.it/@TechBug2012/sound-viz-song-2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1MTE2NzMzLC0xNDA2OTU4MzQxLC0xND
-IxMDU2ODY1LDIwNjI1MDQ4NDZdfQ==
+eyJoaXN0b3J5IjpbLTI3MzE1MTgwMywtMTQwNjk1ODM0MSwtMT
+QyMTA1Njg2NSwyMDYyNTA0ODQ2XX0=
 -->
