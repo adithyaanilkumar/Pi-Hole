@@ -21,14 +21,15 @@ In technical terms, Pi hole is a DNS server which prevents the ads from being lo
 As i said above, Pi-Hole is a DNS Server and in order to understand how Pi Hole works, we first need to understand what a DNS server is.
 
 
-You can read more about the working of Pi-Hole [here](https://pi-hole.net/) .
+
+You can read more about the working of Pi-Hole [here](https://discourse.pi-hole.net/t/how-does-pi-hole-work/3141) .
 
 ## Requirements
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODc5NDAzOCwtMjA2Njc1NDc4LDQ5ND
+eyJoaXN0b3J5IjpbMTA4MDg4NDE3NSwtMjA2Njc1NDc4LDQ5ND
 EzNDgyNiwxNzEzNzA1NDcsMTkxODEyNTU0MywxNzM2NjYyNDY3
 LC0yNzMxNTE4MDMsLTE0MDY5NTgzNDEsLTE0MjEwNTY4NjUsMj
 A2MjUwNDg0Nl19
