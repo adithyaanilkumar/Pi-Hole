@@ -40,12 +40,14 @@ I personally use Raspberry Pi OS (previously called Raspbian) Lite which operate
 
 After downloading the image you have to write it to the SD card so that the Raspberry Pi can boot from it. To do that we use a tool called [Balena Etcher](https://www.balena.io/etcher/)
 
-Follow the instructions [here]() to know more on how to set up the Raspberry Pi
+Follow the instructions [here](https://randomnerdtutorials.com/installing-raspbian-lite-enabling-and-connecting-with-ssh/) to know more on how to set up the Raspberry Pi with the Raspberry Pi OS
+
+
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODM1NTAyMiwtNzYzMTA5NTY0LC0xMj
+eyJoaXN0b3J5IjpbMTMyNjExMzI2OCwtNzYzMTA5NTY0LC0xMj
 EyMjc0MDY1LDEwODA4ODQxNzUsLTIwNjY3NTQ3OCw0OTQxMzQ4
 MjYsMTcxMzcwNTQ3LDE5MTgxMjU1NDMsMTczNjY2MjQ2NywtMj
 czMTUxODAzLC0xNDA2OTU4MzQxLC0xNDIxMDU2ODY1LDIwNjI1
