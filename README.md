@@ -29,11 +29,11 @@ You can read more about the working of Pi-Hole [here](https://discourse.pi-hole.
 
 ## Requirements
 
-
+ - Raspberry Pi, Linux Machine, Docker, Old Lap
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIyNzQwNjUsMTA4MDg4NDE3NSwtMj
-A2Njc1NDc4LDQ5NDEzNDgyNiwxNzEzNzA1NDcsMTkxODEyNTU0
-MywxNzM2NjYyNDY3LC0yNzMxNTE4MDMsLTE0MDY5NTgzNDEsLT
-E0MjEwNTY4NjUsMjA2MjUwNDg0Nl19
+eyJoaXN0b3J5IjpbMTI4MDkyODIwNCwtMTIxMjI3NDA2NSwxMD
+gwODg0MTc1LC0yMDY2NzU0NzgsNDk0MTM0ODI2LDE3MTM3MDU0
+NywxOTE4MTI1NTQzLDE3MzY2NjI0NjcsLTI3MzE1MTgwMywtMT
+QwNjk1ODM0MSwtMTQyMTA1Njg2NSwyMDYyNTA0ODQ2XX0=
 -->
