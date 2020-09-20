@@ -29,10 +29,13 @@ You can read more about the working of Pi-Hole [here](https://discourse.pi-hole.
 
 ## Requirements
 
- - Raspberry Pi, Linux Machine, Docker, Old Lap
+ - Raspberry Pi/ Linux Machine/ Machine which can run Docker 
+ - Minimum 2 Gb Micro SD card
+ - A home wifi network
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDkyODIwNCwtMTIxMjI3NDA2NSwxMD
+eyJoaXN0b3J5IjpbMTEzOTM5NjQ3NywtMTIxMjI3NDA2NSwxMD
 gwODg0MTc1LC0yMDY2NzU0NzgsNDk0MTM0ODI2LDE3MTM3MDU0
 NywxOTE4MTI1NTQzLDE3MzY2NjI0NjcsLTI3MzE1MTgwMywtMT
 QwNjk1ODM0MSwtMTQyMTA1Njg2NSwyMDYyNTA0ODQ2XX0=
