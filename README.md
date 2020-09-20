@@ -38,13 +38,16 @@ The first thing to do after you have all the requirements above is to install th
 
 I personally use Raspberry Pi OS (previously called Raspbian) Lite which operates headlessly and requires very little resources to run.Download the image from [Raspberry Pi OS Download Page](https://www.raspberrypi.org/downloads/raspberry-pi-os/ ) .
 
-After downloading the image you have to write it to the SD card so that the Raspberry Pi can boot from it. To do that we use a 
+After downloading the image you have to write it to the SD card so that the Raspberry Pi can boot from it. To do that we use a tool called [Balena Etcher](https://www.balena.io/etcher/)
+
+Follow the instructions here to know more on how to set up the aspberry
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzEwOTU2NCwtMTIxMjI3NDA2NSwxMD
-gwODg0MTc1LC0yMDY2NzU0NzgsNDk0MTM0ODI2LDE3MTM3MDU0
-NywxOTE4MTI1NTQzLDE3MzY2NjI0NjcsLTI3MzE1MTgwMywtMT
-QwNjk1ODM0MSwtMTQyMTA1Njg2NSwyMDYyNTA0ODQ2XX0=
+eyJoaXN0b3J5IjpbMjM2NDE0MTM4LC03NjMxMDk1NjQsLTEyMT
+IyNzQwNjUsMTA4MDg4NDE3NSwtMjA2Njc1NDc4LDQ5NDEzNDgy
+NiwxNzEzNzA1NDcsMTkxODEyNTU0MywxNzM2NjYyNDY3LC0yNz
+MxNTE4MDMsLTE0MDY5NTgzNDEsLTE0MjEwNTY4NjUsMjA2MjUw
+NDg0Nl19
 -->
