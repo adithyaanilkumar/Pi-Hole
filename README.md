@@ -34,14 +34,15 @@ You can read more about the working of Pi-Hole [here](https://discourse.pi-hole.
  - Ethernet cable or WiFi
 ## Pi- Hole setup
 ### Step 1 : Install Raspberry Pi OS
-dfksd
+The first thing to do after you have all the requirements above is to install the operating system to run Pi - Hole on your Raspberry Pi.
+I personally use Rasp
 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDIzNTM1MjIsLTEyMTIyNzQwNjUsMT
-A4MDg4NDE3NSwtMjA2Njc1NDc4LDQ5NDEzNDgyNiwxNzEzNzA1
-NDcsMTkxODEyNTU0MywxNzM2NjYyNDY3LC0yNzMxNTE4MDMsLT
-E0MDY5NTgzNDEsLTE0MjEwNTY4NjUsMjA2MjUwNDg0Nl19
+eyJoaXN0b3J5IjpbMTU0MTkwNzkyLC0xMjEyMjc0MDY1LDEwOD
+A4ODQxNzUsLTIwNjY3NTQ3OCw0OTQxMzQ4MjYsMTcxMzcwNTQ3
+LDE5MTgxMjU1NDMsMTczNjY2MjQ2NywtMjczMTUxODAzLC0xND
+A2OTU4MzQxLC0xNDIxMDU2ODY1LDIwNjI1MDQ4NDZdfQ==
 -->
