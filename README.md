@@ -31,12 +31,13 @@ You can read more about the working of Pi-Hole [here](https://discourse.pi-hole.
 
  - Raspberry Pi/ Linux Machine/ Machine which can run Docker 
  - Minimum 2 Gb Micro SD card
- - A home wifi network
- - 
+ - Ethernet cable or WiFi
+## Pi H
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTM5NjQ3NywtMTIxMjI3NDA2NSwxMD
-gwODg0MTc1LC0yMDY2NzU0NzgsNDk0MTM0ODI2LDE3MTM3MDU0
-NywxOTE4MTI1NTQzLDE3MzY2NjI0NjcsLTI3MzE1MTgwMywtMT
-QwNjk1ODM0MSwtMTQyMTA1Njg2NSwyMDYyNTA0ODQ2XX0=
+eyJoaXN0b3J5IjpbLTE4OTMxNDU5MDAsLTEyMTIyNzQwNjUsMT
+A4MDg4NDE3NSwtMjA2Njc1NDc4LDQ5NDEzNDgyNiwxNzEzNzA1
+NDcsMTkxODEyNTU0MywxNzM2NjYyNDY3LC0yNzMxNTE4MDMsLT
+E0MDY5NTgzNDEsLTE0MjEwNTY4NjUsMjA2MjUwNDg0Nl19
 -->
