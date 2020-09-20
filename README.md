@@ -38,11 +38,12 @@ The first thing to do after you have all the requirements above is to install th
 
 I personally use Raspberry Pi OS (previously called Raspbian) Lite which operates headlessly and requires very little resources to run.Download the image from [Raspberry Pi OS Download Page](https://www.raspberrypi.org/downloads/raspberry-pi-os/ ) .
 
+After downloading the image you have to write it to the SD card so that the Raspberry Pi can boot from it. To do that we use a 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDA3NDI2NCwtMTIxMjI3NDA2NSwxMD
+eyJoaXN0b3J5IjpbLTc2MzEwOTU2NCwtMTIxMjI3NDA2NSwxMD
 gwODg0MTc1LC0yMDY2NzU0NzgsNDk0MTM0ODI2LDE3MTM3MDU0
 NywxOTE4MTI1NTQzLDE3MzY2NjI0NjcsLTI3MzE1MTgwMywtMT
 QwNjk1ODM0MSwtMTQyMTA1Njg2NSwyMDYyNTA0ODQ2XX0=
