@@ -36,14 +36,14 @@ You can read more about the working of Pi-Hole [here](https://discourse.pi-hole.
 ### Step 1 : Install Raspberry Pi OS
 The first thing to do after you have all the requirements above is to install the operating system to run Pi - Hole on your Raspberry Pi.
 
-I personally use Raspberry Pi OS (previously called Raspbian) Lite which operates headlessly and requires very little resources to run.Download the image from Ras
+I personally use Raspberry Pi OS (previously called Raspbian) Lite which operates headlessly and requires very little resources to run.Download the image from [Raspberry Pi OS Download Page](https://www.raspberrypi.org/downloads/raspberry-pi-os/ ) .
 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTcwOTIzNzksLTEyMTIyNzQwNjUsMT
-A4MDg4NDE3NSwtMjA2Njc1NDc4LDQ5NDEzNDgyNiwxNzEzNzA1
-NDcsMTkxODEyNTU0MywxNzM2NjYyNDY3LC0yNzMxNTE4MDMsLT
-E0MDY5NTgzNDEsLTE0MjEwNTY4NjUsMjA2MjUwNDg0Nl19
+eyJoaXN0b3J5IjpbMTY3NDA3NDI2NCwtMTIxMjI3NDA2NSwxMD
+gwODg0MTc1LC0yMDY2NzU0NzgsNDk0MTM0ODI2LDE3MTM3MDU0
+NywxOTE4MTI1NTQzLDE3MzY2NjI0NjcsLTI3MzE1MTgwMywtMT
+QwNjk1ODM0MSwtMTQyMTA1Njg2NSwyMDYyNTA0ODQ2XX0=
 -->
