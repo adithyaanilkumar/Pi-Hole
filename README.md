@@ -44,15 +44,15 @@ Follow the instructions [here](https://randomnerdtutorials.com/installing-raspbi
 ### Step 2 : Set up Raspberry Pi 
 After installing and enabling SSH on your Raspberry Pi, the next step to do is to configure it for Pi - Hole installation.
 
-SSH into the raspberr
+SSH into the raspberry Pi 
 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwMTA3ODYxLC05MzYyODE1MzUsLTc2Mz
-EwOTU2NCwtMTIxMjI3NDA2NSwxMDgwODg0MTc1LC0yMDY2NzU0
-NzgsNDk0MTM0ODI2LDE3MTM3MDU0NywxOTE4MTI1NTQzLDE3Mz
-Y2NjI0NjcsLTI3MzE1MTgwMywtMTQwNjk1ODM0MSwtMTQyMTA1
-Njg2NSwyMDYyNTA0ODQ2XX0=
+eyJoaXN0b3J5IjpbLTE2MDA1OTY4MjUsLTkzNjI4MTUzNSwtNz
+YzMTA5NTY0LC0xMjEyMjc0MDY1LDEwODA4ODQxNzUsLTIwNjY3
+NTQ3OCw0OTQxMzQ4MjYsMTcxMzcwNTQ3LDE5MTgxMjU1NDMsMT
+czNjY2MjQ2NywtMjczMTUxODAzLC0xNDA2OTU4MzQxLC0xNDIx
+MDU2ODY1LDIwNjI1MDQ4NDZdfQ==
 -->
