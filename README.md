@@ -42,15 +42,17 @@ After downloading the image you have to write it to the SD card so that the Rasp
 
 Follow the instructions [here](https://randomnerdtutorials.com/installing-raspbian-lite-enabling-and-connecting-with-ssh/) to know more on how to set up the Raspberry Pi with the Raspberry Pi OS
 ### Step 2 : Set up Raspberry Pi 
-After installing and enabling SSH on your Raspberry Pi, the next step to do is to configure it for Pi - Hole installation
+After installing and enabling SSH on your Raspberry Pi, the next step to do is to configure it for Pi - Hole installation.
+
+SSH into the raspberr
 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjI4MTUzNSwtNzYzMTA5NTY0LC0xMj
-EyMjc0MDY1LDEwODA4ODQxNzUsLTIwNjY3NTQ3OCw0OTQxMzQ4
-MjYsMTcxMzcwNTQ3LDE5MTgxMjU1NDMsMTczNjY2MjQ2NywtMj
-czMTUxODAzLC0xNDA2OTU4MzQxLC0xNDIxMDU2ODY1LDIwNjI1
-MDQ4NDZdfQ==
+eyJoaXN0b3J5IjpbNjkwMTA3ODYxLC05MzYyODE1MzUsLTc2Mz
+EwOTU2NCwtMTIxMjI3NDA2NSwxMDgwODg0MTc1LC0yMDY2NzU0
+NzgsNDk0MTM0ODI2LDE3MTM3MDU0NywxOTE4MTI1NTQzLDE3Mz
+Y2NjI0NjcsLTI3MzE1MTgwMywtMTQwNjk1ODM0MSwtMTQyMTA1
+Njg2NSwyMDYyNTA0ODQ2XX0=
 -->
